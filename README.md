@@ -46,7 +46,7 @@ git commit -m "feat: Conditional Rendering 예제코드 수정"
 | ---- | ---- | ------------------------------------------------ | ---------- |
 | ✅ | 1 | Describing the UI, Adding Interactivity | 2024/11/22 |
 | ✅ | 2 | Managing State | 2024/12/06 |
-|  | 3 | Escape Hatches | 2024/12/13 |
+| ✅ | 3 | Escape Hatches | 2024/12/13 |
 
 <br>
 
